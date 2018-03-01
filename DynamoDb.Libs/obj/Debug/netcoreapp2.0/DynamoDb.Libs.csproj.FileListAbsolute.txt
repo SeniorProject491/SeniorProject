@@ -1,0 +1,9 @@
+D:\School\Senior Project\StudySolution\SeniorProject2\DynamoDb.Libs\bin\Debug\netcoreapp2.0\DynamoDb.Libs.deps.json
+D:\School\Senior Project\StudySolution\SeniorProject2\DynamoDb.Libs\bin\Debug\netcoreapp2.0\DynamoDb.Libs.dll
+D:\School\Senior Project\StudySolution\SeniorProject2\DynamoDb.Libs\bin\Debug\netcoreapp2.0\DynamoDb.Libs.pdb
+D:\School\Senior Project\StudySolution\SeniorProject2\DynamoDb.Libs\obj\Debug\netcoreapp2.0\DynamoDb.Libs.csprojResolveAssemblyReference.cache
+D:\School\Senior Project\StudySolution\SeniorProject2\DynamoDb.Libs\obj\Debug\netcoreapp2.0\DynamoDb.Libs.csproj.CoreCompileInputs.cache
+D:\School\Senior Project\StudySolution\SeniorProject2\DynamoDb.Libs\obj\Debug\netcoreapp2.0\DynamoDb.Libs.AssemblyInfoInputs.cache
+D:\School\Senior Project\StudySolution\SeniorProject2\DynamoDb.Libs\obj\Debug\netcoreapp2.0\DynamoDb.Libs.AssemblyInfo.cs
+D:\School\Senior Project\StudySolution\SeniorProject2\DynamoDb.Libs\obj\Debug\netcoreapp2.0\DynamoDb.Libs.dll
+D:\School\Senior Project\StudySolution\SeniorProject2\DynamoDb.Libs\obj\Debug\netcoreapp2.0\DynamoDb.Libs.pdb
